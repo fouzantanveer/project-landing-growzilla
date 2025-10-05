@@ -103,7 +103,7 @@ npm run lint         # Run ESLint
 ```
 
 ## 🌐 Deployment
-
+This project is deployed on Netlify, Here's the Link: https://growzilla-ai.netlify.app/
 This project is deployed on [Lovable](https://lovable.dev) with automatic deployments on every commit to the main branch.
 
 To deploy manually:
